@@ -1,0 +1,15 @@
+---
+title: "Lab 10"
+author: "Linzhuo Li"
+format: html
+---
+
+## Assess myself
+
+I learned how to identify, inspect, interrogate, and interpret the results of inferential analysis.
+
+I found Normalizing the variables most chanllenging
+
+I consulted [here](https://qtalr.github.io/qtalrkit/articles/recipe-10.html)
+
+I would like to learn more ways of building inference models.
